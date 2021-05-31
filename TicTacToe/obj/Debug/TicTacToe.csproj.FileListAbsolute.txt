@@ -1,0 +1,7 @@
+D:\Programming\Github Projects\TicTacToe-Csharp\TicTacToe\bin\Debug\TicTacToe.exe.config
+D:\Programming\Github Projects\TicTacToe-Csharp\TicTacToe\bin\Debug\TicTacToe.exe
+D:\Programming\Github Projects\TicTacToe-Csharp\TicTacToe\bin\Debug\TicTacToe.pdb
+D:\Programming\Github Projects\TicTacToe-Csharp\TicTacToe\obj\Debug\TicTacToe.csprojAssemblyReference.cache
+D:\Programming\Github Projects\TicTacToe-Csharp\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+D:\Programming\Github Projects\TicTacToe-Csharp\TicTacToe\obj\Debug\TicTacToe.exe
+D:\Programming\Github Projects\TicTacToe-Csharp\TicTacToe\obj\Debug\TicTacToe.pdb
